@@ -1,0 +1,46 @@
+.foto-de-perfil{ 
+    border-radius: 100px;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 20px;
+    left: 20px;
+}
+
+.zapzap {
+   left: 10px;
+   position: absolute;    
+
+}
+
+.casinha {
+   left: 10px;
+   position: absolute;
+
+}
+
+.people {
+   left: 10px;
+   position: absolute;
+
+}
+
+.emailzinho {
+   left: 10px;
+   position: absolute;
+}
+
+.banner {
+    width: 100%;
+    height: 170px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+ 
+
+}   
+
+body {background-color:rgba(255, 255, 255, 0.966);}
+
+
