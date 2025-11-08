@@ -11,8 +11,9 @@ Pilha de pratos em um restaurante
 Livros empilhados sobre a mesa
 Pilha de roubas dobradas no armário
 
-###FIFO
+### FIFO
 
 Fila de banco
 Pessoas esperando atendimento
+
 Pedidos de delivery sendo preparados na ordem de chegada
